@@ -5,4 +5,6 @@
   <Project Path="04 Sektionslager på kajen (Radsummering)/04 Sektionslager på kajen (Radsummering).csproj" />
   <Project Path="05 Hamnens Jagged Array/05 Hamnens Jagged Array.csproj" />
   <Project Path="06 Radaravsökning (Söka efter specifika tecken)/06 Radaravsökning (Söka efter specifika tecken).csproj" />
+  <Project Path="07 Containerterminalen (Nästlad utskrift med snygg formatering)/07 Containerterminalen (Nästlad utskrift med snygg formatering).csproj" />
+  <Project Path="08 Lastbilskön vid tullen (med Jagged Array)/08 Lastbilskön vid tullen (med Jagged Array).csproj" />
 </Solution>

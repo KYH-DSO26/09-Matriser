@@ -2,4 +2,6 @@
   <Project Path="01 Sjökorts-koordinaterna/01 Sjökorts-koordinaterna.csproj" />
   <Project Path="02 Passageraröversikten (ändra värden i en matris)/02 Passageraröversikten (ändra värden i en matris).csproj" />
   <Project Path="03 Temperaturloggen för frysfacken/03 Temperaturloggen för frysfacken.csproj" />
+  <Project Path="04 Sektionslager på kajen (Radsummering)/04 Sektionslager på kajen (Radsummering).csproj" />
+  <Project Path="05 Hamnens Jagged Array/05 Hamnens Jagged Array.csproj" />
 </Solution>

@@ -9,4 +9,5 @@
   <Project Path="08 Lastbilskön vid tullen (med Jagged Array)/08 Lastbilskön vid tullen (med Jagged Array).csproj" />
   <Project Path="09 Logistikrutten/09 Logistikrutten.csproj" />
   <Project Path="10 Skattjakten (Användarinmatning mot matris)/10 Skattjakten (Användarinmatning mot matris).csproj" />
+  <Project Path="11 Skiftbyte på fartyget (Invertera rader och kolumner)/11 Skiftbyte på fartyget (Invertera rader och kolumner).csproj" />
 </Solution>

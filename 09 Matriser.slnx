@@ -4,4 +4,5 @@
   <Project Path="03 Temperaturloggen för frysfacken/03 Temperaturloggen för frysfacken.csproj" />
   <Project Path="04 Sektionslager på kajen (Radsummering)/04 Sektionslager på kajen (Radsummering).csproj" />
   <Project Path="05 Hamnens Jagged Array/05 Hamnens Jagged Array.csproj" />
+  <Project Path="06 Radaravsökning (Söka efter specifika tecken)/06 Radaravsökning (Söka efter specifika tecken).csproj" />
 </Solution>

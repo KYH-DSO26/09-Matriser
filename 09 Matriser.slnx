@@ -10,4 +10,8 @@
   <Project Path="09 Logistikrutten/09 Logistikrutten.csproj" />
   <Project Path="10 Skattjakten (Användarinmatning mot matris)/10 Skattjakten (Användarinmatning mot matris).csproj" />
   <Project Path="11 Skiftbyte på fartyget (Invertera rader och kolumner)/11 Skiftbyte på fartyget (Invertera rader och kolumner).csproj" />
+  <Project Path="12 Havsdjups-analysatorn (Grannceller och logik)/12 Havsdjups-analysatorn (Grannceller och logik).csproj" />
+  <Project Path="13 Dynamisk omstrukturering av lastutrymmet (Resizing av matriser)/13 Dynamisk omstrukturering av lastutrymmet (Resizing av matriser).csproj" />
+  <Project Path="14 Flygledartornet på skärgårdsflyget (Sökning i diagonaler)/14 Flygledartornet på skärgårdsflyget (Sökning i diagonaler).csproj" />
+  <Project Path="15 Lastbalansering på fraktfärjan (Viktfördelning i matriser)/15 Lastbalansering på fraktfärjan (Viktfördelning i matriser).csproj" />
 </Solution>
